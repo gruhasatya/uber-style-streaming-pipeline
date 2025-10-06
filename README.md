@@ -18,7 +18,7 @@ It demonstrates **both streaming (real-time) and batch (historical analytics)** 
 
 ##  Architecture Overview
 
-![AWS Ride-Hailing Architecture](./images/aws_architecture.png)
+![AWS Ride-Hailing Architecture](.rid-hailing-app/Ride-hailing.png)
 
 **Flow**:
 
